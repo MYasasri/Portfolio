@@ -1,20 +1,83 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 💼 M Yasasri – Portfolio
 
-# Run and deploy your AI Studio app
+🚀 Data | AI | Software Development
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/ebb2d176-a1b2-4680-b59e-cedbe5b02bae
+## 🔗 Live Demo
 
-## Run Locally
+👉 https://portfolio-theta-nine-35.vercel.app/
 
-**Prerequisites:**  Node.js
+---
+
+## 📸 Preview
+
+<img width="1894" height="845" alt="image" src="https://github.com/user-attachments/assets/c1f5b490-3ab4-47b4-928b-54b42928f645" />
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🧠 About
+
+A modern portfolio showcasing my work in **Data Analytics, AI, and Software Development**, with a focus on building real-world, impactful projects.
+
+---
+
+## ⚙️ Tech Stack
+
+**Frontend**
+
+* React (Vite)
+* TypeScript
+* Tailwind CSS
+
+**Data & Tools**
+
+* Python
+* Pandas, NumPy
+* Power BI
+* Matplotlib
+
+---
+
+## ✨ Highlights
+
+✔ Clean & modern UI
+✔ Skills categorized (Programming / Data / AI)
+✔ Project showcase with real-world use cases
+✔ Certification section
+✔ Fully responsive design
+
+---
+
+## 📂 Structure
+
+```id="cleanstruct"
+src/
+ ├── components/
+ ├── assets/
+ ├── data/
+ ├── App.tsx
+ └── main.tsx
+```
+
+---
+
+## 🚀 Run Locally
+
+```bash id="quickrun"
+npm install
+npm run dev
+```
+
+---
+
+## 📬 Contact
+
+* 📧 [yasasrimalyabantam@gmail.com](mailto:yasasrimalyabantam@gmail.com)
+* 🔗 [LinkedIn: yasasri-malyavantham](https://www.linkedin.com/in/yasasri-malyavantham/)
+* 💻 [GitHub: MYasasri](https://github.com/MYasasri)
+
+---
+
+⭐ *Always improving and building better projects*
